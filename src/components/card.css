@@ -1,0 +1,51 @@
+.card{
+    height:300px;
+    width:300px;
+    background:white;
+    margin: 15px;
+    border: 1px solid lightgray;
+    display: flex;
+    cursor: pointer
+}
+
+.card-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.icon{
+    width: 25px !important;
+    height:25px !important; 
+}
+
+.info-container{
+    text-align: left;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.icon-background{
+    padding:8px;
+    margin: 25px 15px;
+    border-radius: 8px;
+}
+
+@media (max-width:450px) { 
+    .card{
+    height:400px;
+    width:400px;
+    background:white;
+    margin: 15px;
+    border: 1px solid lightgray;
+    }
+
+}
+
+h2{
+    margin:0;
+    font-size:large
+}
+
+h5{
+    margin-bottom: 5px;
+}
