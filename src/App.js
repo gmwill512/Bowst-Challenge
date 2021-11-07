@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="Bowst-Challenge/">
         <Header />
         <Routes>
           <Route exact path="/" element={<Home />} />
