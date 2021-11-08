@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bowst-Challenge/static/css/main.c23cf223.chunk.css",
-    "main.js": "/Bowst-Challenge/static/js/main.d059f0f6.chunk.js",
-    "main.js.map": "/Bowst-Challenge/static/js/main.d059f0f6.chunk.js.map",
+    "main.js": "/Bowst-Challenge/static/js/main.b24474ed.chunk.js",
+    "main.js.map": "/Bowst-Challenge/static/js/main.b24474ed.chunk.js.map",
     "runtime-main.js": "/Bowst-Challenge/static/js/runtime-main.34d9b4a5.js",
     "runtime-main.js.map": "/Bowst-Challenge/static/js/runtime-main.34d9b4a5.js.map",
     "static/js/2.3b62aa8f.chunk.js": "/Bowst-Challenge/static/js/2.3b62aa8f.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.34d9b4a5.js",
     "static/js/2.3b62aa8f.chunk.js",
     "static/css/main.c23cf223.chunk.css",
-    "static/js/main.d059f0f6.chunk.js"
+    "static/js/main.b24474ed.chunk.js"
   ]
 }
