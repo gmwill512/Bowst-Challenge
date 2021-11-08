@@ -9,7 +9,7 @@ data = [
     client: 'The Hype Agency',
     title: 'Talent Management System',
     description:
-      'The Hype Agency works with marketing films to find, vet and select staff fro matketing events acrosss the United States',
+      'The Hype Agency works with marketing films to find, vet and select staff fro marketing events acrosss the United States.',
     style: {
       backgroundColor: 'rgb(125, 147, 239)',
     },
@@ -19,7 +19,7 @@ data = [
     client: 'Beawick Engineering',
     title: 'E-Commerce',
     description:
-      'Not only was the site a redesign but we were tasked with upgrading their e-commerce to increase the number of sales made through their website',
+      'Not only was the site a redesign but we were tasked with upgrading their e-commerce to increase the number of sales made through their website.',
     style: { backgroundColor: 'rgb(222, 69, 102)' },
     icon: CatchingPokemonIcon,
   },
