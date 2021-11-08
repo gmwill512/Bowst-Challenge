@@ -3,7 +3,6 @@
     width:300px;
     background:white;
     margin: 15px;
-    border: 1px solid lightgray;
     display: flex;
     cursor: pointer;
     border-radius: 5px;
@@ -31,6 +30,14 @@
     margin: 25px 15px;
     border-radius: 8px;
 }
+h2{
+    margin:0;
+    font-size:large
+}
+
+h5{
+    margin-bottom: 5px;
+}
 
 @media (max-width:450px) { 
     .card{
@@ -43,11 +50,3 @@
 
 }
 
-h2{
-    margin:0;
-    font-size:large
-}
-
-h5{
-    margin-bottom: 5px;
-}
