@@ -9,7 +9,7 @@ data = [
     client: 'The Hype Agency',
     title: 'Talent Management System',
     description:
-      'The Hype Agency works with marketing films to find, vet and select staff fro marketing events acrosss the United States.',
+      'The Hype Agency works with marketing films to find, vet and select staff from marketing events acrosss the United States.',
     style: {
       backgroundColor: 'rgb(125, 147, 239)',
     },
